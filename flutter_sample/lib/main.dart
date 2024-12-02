@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_sample/my_container.dart';
-
+import 'package:flutter_sample/my_scroll.dart';
 void main() {
   runApp(const MainApp());
 }
@@ -13,7 +13,7 @@ class MainApp extends StatelessWidget {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
       title: "Hi Bro",
-      home: MyContainer(
+      home: MyScrollView(
         
       ),
     );
