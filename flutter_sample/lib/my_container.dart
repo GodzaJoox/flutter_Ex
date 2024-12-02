@@ -39,7 +39,7 @@ class MyContainer extends StatelessWidget {
             ],
         ),
         child: const Center(
-          child: const Text("Meow",
+          child:  Text("Meow",
             style: TextStyle(
             color: Color(0xFF000000),
             fontSize: 30
@@ -69,7 +69,7 @@ class MyContainer extends StatelessWidget {
       ]
     ),
       child: const Center(
-          child: const Text("Meow2",
+          child:  Text("Meow2",
             style: TextStyle(
             color: Color(0xFF000000),
             fontSize: 30
