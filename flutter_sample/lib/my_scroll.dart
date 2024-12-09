@@ -15,9 +15,9 @@ class MyScrollView extends StatelessWidget {
         child: Center(
           child: Row(
             children: [
-              boxContainer("One"),
-              boxContainer("Two"),
-              boxContainer("Three")
+              boxContainer("Oneee"),
+              boxContainer("Twooo"),
+              boxContainer("Threeee")
             ],
           ),
         ),
